@@ -1,0 +1,201 @@
+Year,Sex,Cancer Type,Age-Standardised Rate,Deaths
+2013,Both sexes,C00-C99 Malignant neoplasms,289.59566091747695,8771.0
+2013,Both sexes,C16 Malignant neoplasm of stomach,9.680222147233057,298.0
+2013,Both sexes,C18 Malignant neoplasm of colon,17.986410283743673,528.0
+2013,Both sexes,C25 Malignant neoplasm of pancreas,16.55769949493154,496.0
+2013,Both sexes,C34 Malignant neoplasm of bronchus and lung,60.26379698811145,1831.0
+2013,Both sexes,C50 Malignant neoplasm of breast,22.744023880491135,718.0
+2013,Both sexes,C61 Malignant neoplasm of prostate,17.851938028121815,500.0
+2013,Female,C00-C99 Malignant neoplasms,246.79149768012516,4142.0
+2013,Female,C16 Malignant neoplasm of stomach,7.047984337902637,119.0
+2013,Female,C18 Malignant neoplasm of colon,14.940459462479346,247.0
+2013,Female,C25 Malignant neoplasm of pancreas,15.769128301355135,259.0
+2013,Female,C34 Malignant neoplasm of bronchus and lung,45.85598142717252,757.0
+2013,Female,C50 Malignant neoplasm of breast,40.8360586595031,709.0
+2013,Male,C00-C99 Malignant neoplasms,352.3536049771843,4629.0
+2013,Male,C16 Malignant neoplasm of stomach,13.219572159755991,179.0
+2013,Male,C18 Malignant neoplasm of colon,22.260931030399867,281.0
+2013,Male,C25 Malignant neoplasm of pancreas,17.253872527600894,237.0
+2013,Male,C34 Malignant neoplasm of bronchus and lung,79.33682038851641,1074.0
+2013,Male,C50 Malignant neoplasm of breast,0.6480294893537385,9.0
+2013,Male,C61 Malignant neoplasm of prostate,45.10341066859137,500.0
+2014,Both sexes,C00-C99 Malignant neoplasms,291.4404457635528,9083.0
+2014,Both sexes,C16 Malignant neoplasm of stomach,11.855761644594617,369.0
+2014,Both sexes,C18 Malignant neoplasm of colon,16.835185094169603,501.0
+2014,Both sexes,C25 Malignant neoplasm of pancreas,16.817878894413674,518.0
+2014,Both sexes,C34 Malignant neoplasm of bronchus and lung,62.08250967203299,1946.0
+2014,Both sexes,C50 Malignant neoplasm of breast,22.85480218709533,744.0
+2014,Both sexes,C61 Malignant neoplasm of prostate,18.954590113401558,540.0
+2014,Female,C00-C99 Malignant neoplasms,251.14919656317014,4326.0
+2014,Female,C16 Malignant neoplasm of stomach,8.32907390214569,144.0
+2014,Female,C18 Malignant neoplasm of colon,13.03582999098639,219.0
+2014,Female,C25 Malignant neoplasm of pancreas,14.491465823535592,243.0
+2014,Female,C34 Malignant neoplasm of bronchus and lung,51.59603467315202,877.0
+2014,Female,C50 Malignant neoplasm of breast,41.66722203970617,739.0
+2014,Male,C00-C99 Malignant neoplasms,350.0552689112563,4757.0
+2014,Male,C16 Malignant neoplasm of stomach,16.0190829679672,225.0
+2014,Male,C18 Malignant neoplasm of colon,22.064519075485872,282.0
+2014,Male,C25 Malignant neoplasm of pancreas,19.214028084771268,275.0
+2014,Male,C34 Malignant neoplasm of bronchus and lung,75.56053914598317,1069.0
+2014,Male,C50 Malignant neoplasm of breast,0.47857511535889435,5.0
+2014,Male,C61 Malignant neoplasm of prostate,47.84552520662865,540.0
+2015,Both sexes,C00-C99 Malignant neoplasms,278.97009453986215,8944.0
+2015,Both sexes,C16 Malignant neoplasm of stomach,10.393550462515794,330.0
+2015,Both sexes,C18 Malignant neoplasm of colon,15.756922501648075,486.0
+2015,Both sexes,C25 Malignant neoplasm of pancreas,17.34184974038223,549.0
+2015,Both sexes,C34 Malignant neoplasm of bronchus and lung,57.10294855981155,1838.0
+2015,Both sexes,C50 Malignant neoplasm of breast,20.570240509669162,688.0
+2015,Both sexes,C61 Malignant neoplasm of prostate,18.06325217493645,529.0
+2015,Female,C00-C99 Malignant neoplasms,235.09918386523958,4168.0
+2015,Female,C16 Malignant neoplasm of stomach,7.857704862046643,137.0
+2015,Female,C18 Malignant neoplasm of colon,11.81126166246781,207.0
+2015,Female,C25 Malignant neoplasm of pancreas,14.425049207393222,250.0
+2015,Female,C34 Malignant neoplasm of bronchus and lung,45.36841148688388,791.0
+2015,Female,C50 Malignant neoplasm of breast,37.60332910001453,686.0
+2015,Male,C00-C99 Malignant neoplasms,339.96518512540376,4776.0
+2015,Male,C16 Malignant neoplasm of stomach,13.34480369508217,193.0
+2015,Male,C18 Malignant neoplasm of colon,21.03895443509682,279.0
+2015,Male,C25 Malignant neoplasm of pancreas,20.95716511454414,299.0
+2015,Male,C34 Malignant neoplasm of bronchus and lung,72.447401930939,1047.0
+2015,Male,C50 Malignant neoplasm of breast,0.11584717138350742,2.0
+2015,Male,C61 Malignant neoplasm of prostate,44.72170071025105,529.0
+2016,Both sexes,C00-C99 Malignant neoplasms,281.2139074937371,9239.0
+2016,Both sexes,C16 Malignant neoplasm of stomach,10.082139136652637,331.0
+2016,Both sexes,C18 Malignant neoplasm of colon,15.819460666176141,500.0
+2016,Both sexes,C25 Malignant neoplasm of pancreas,16.07012451130791,523.0
+2016,Both sexes,C34 Malignant neoplasm of bronchus and lung,58.0250785863923,1920.0
+2016,Both sexes,C50 Malignant neoplasm of breast,22.534578817410036,767.0
+2016,Both sexes,C61 Malignant neoplasm of prostate,16.790321284495043,509.0
+2016,Female,C00-C99 Malignant neoplasms,243.7291683817173,4407.0
+2016,Female,C16 Malignant neoplasm of stomach,7.3700863351751815,133.0
+2016,Female,C18 Malignant neoplasm of colon,12.568966135261975,223.0
+2016,Female,C25 Malignant neoplasm of pancreas,14.42753788561373,257.0
+2016,Female,C34 Malignant neoplasm of bronchus and lung,48.859174244684425,872.0
+2016,Female,C50 Malignant neoplasm of breast,40.88329420405101,759.0
+2016,Male,C00-C99 Malignant neoplasms,332.83618884880184,4832.0
+2016,Male,C16 Malignant neoplasm of stomach,13.403692840214841,198.0
+2016,Male,C18 Malignant neoplasm of colon,20.176230741395543,277.0
+2016,Male,C25 Malignant neoplasm of pancreas,18.27017061758835,266.0
+2016,Male,C34 Malignant neoplasm of bronchus and lung,69.8230336714401,1048.0
+2016,Male,C50 Malignant neoplasm of breast,0.48630158699455206,8.0
+2016,Male,C61 Malignant neoplasm of prostate,40.98789505481868,509.0
+2017,Both sexes,C00-C99 Malignant neoplasms,271.1640473732637,9204.0
+2017,Both sexes,C16 Malignant neoplasm of stomach,9.505399796401843,322.0
+2017,Both sexes,C18 Malignant neoplasm of colon,14.422228350757004,477.0
+2017,Both sexes,C25 Malignant neoplasm of pancreas,15.463626830682607,523.0
+2017,Both sexes,C34 Malignant neoplasm of bronchus and lung,56.443235640711016,1922.0
+2017,Both sexes,C50 Malignant neoplasm of breast,20.806839619138778,735.0
+2017,Both sexes,C61 Malignant neoplasm of prostate,18.518726426721038,579.0
+2017,Female,C00-C99 Malignant neoplasms,232.25373954377577,4316.0
+2017,Female,C16 Malignant neoplasm of stomach,5.727951651624672,105.0
+2017,Female,C18 Malignant neoplasm of colon,11.577708770471897,214.0
+2017,Female,C25 Malignant neoplasm of pancreas,13.973371459874361,257.0
+2017,Female,C34 Malignant neoplasm of bronchus and lung,48.90651280502577,887.0
+2017,Female,C50 Malignant neoplasm of breast,38.069403386034715,730.0
+2017,Male,C00-C99 Malignant neoplasms,323.81349242143455,4888.0
+2017,Male,C16 Malignant neoplasm of stomach,14.010613115654364,217.0
+2017,Male,C18 Malignant neoplasm of colon,18.102071790305548,263.0
+2017,Male,C25 Malignant neoplasm of pancreas,16.95471652085759,266.0
+2017,Male,C34 Malignant neoplasm of bronchus and lung,66.09988785343293,1035.0
+2017,Male,C50 Malignant neoplasm of breast,0.2817915070928297,5.0
+2017,Male,C61 Malignant neoplasm of prostate,44.60461613499239,579.0
+2018,Both sexes,C00-C99 Malignant neoplasms,265.54994890436143,9316.0
+2018,Both sexes,C16 Malignant neoplasm of stomach,8.928756537542466,315.0
+2018,Both sexes,C18 Malignant neoplasm of colon,11.980921843225094,413.0
+2018,Both sexes,C25 Malignant neoplasm of pancreas,15.929093767632489,562.0
+2018,Both sexes,C34 Malignant neoplasm of bronchus and lung,51.848532099911374,1834.0
+2018,Both sexes,C50 Malignant neoplasm of breast,21.70973694887078,790.0
+2018,Both sexes,C61 Malignant neoplasm of prostate,17.993433726958063,580.0
+2018,Female,C00-C99 Malignant neoplasms,227.05158560375077,4349.0
+2018,Female,C16 Malignant neoplasm of stomach,5.682715118352216,108.0
+2018,Female,C18 Malignant neoplasm of colon,9.535779927580037,180.0
+2018,Female,C25 Malignant neoplasm of pancreas,13.851632812202244,263.0
+2018,Female,C34 Malignant neoplasm of bronchus and lung,42.21846987445875,797.0
+2018,Female,C50 Malignant neoplasm of breast,39.60596911275126,782.0
+2018,Male,C00-C99 Malignant neoplasms,317.1771580656466,4967.0
+2018,Male,C16 Malignant neoplasm of stomach,12.87506682310153,207.0
+2018,Male,C18 Malignant neoplasm of colon,15.187472314159056,233.0
+2018,Male,C25 Malignant neoplasm of pancreas,18.064191738761274,299.0
+2018,Male,C34 Malignant neoplasm of bronchus and lung,63.45992074541216,1037.0
+2018,Male,C50 Malignant neoplasm of breast,0.5219739581120664,8.0
+2018,Male,C61 Malignant neoplasm of prostate,43.20406872615743,580.0
+2019,Both sexes,C00-C99 Malignant neoplasms,265.6607213833466,9627.0
+2019,Both sexes,C16 Malignant neoplasm of stomach,8.611111002446078,310.0
+2019,Both sexes,C18 Malignant neoplasm of colon,12.610939525343909,442.0
+2019,Both sexes,C25 Malignant neoplasm of pancreas,14.858696952932643,537.0
+2019,Both sexes,C34 Malignant neoplasm of bronchus and lung,53.679543191227125,1960.0
+2019,Both sexes,C50 Malignant neoplasm of breast,18.896433388001025,700.0
+2019,Both sexes,C61 Malignant neoplasm of prostate,18.810091599221842,629.0
+2019,Female,C00-C99 Malignant neoplasms,221.74179160751956,4379.0
+2019,Female,C16 Malignant neoplasm of stomach,5.56513366263335,109.0
+2019,Female,C18 Malignant neoplasm of colon,9.947462418007856,194.0
+2019,Female,C25 Malignant neoplasm of pancreas,13.202096831252796,256.0
+2019,Female,C34 Malignant neoplasm of bronchus and lung,42.23040242790673,824.0
+2019,Female,C50 Malignant neoplasm of breast,34.43398814025339,695.0
+2019,Male,C00-C99 Malignant neoplasms,322.5065566650109,5248.0
+2019,Male,C16 Malignant neoplasm of stomach,12.414946969336818,201.0
+2019,Male,C18 Malignant neoplasm of colon,15.888091040308927,248.0
+2019,Male,C25 Malignant neoplasm of pancreas,16.665025777232326,281.0
+2019,Male,C34 Malignant neoplasm of bronchus and lung,68.01797754237805,1136.0
+2019,Male,C50 Malignant neoplasm of breast,0.31510796301843175,5.0
+2019,Male,C61 Malignant neoplasm of prostate,44.4328235718117,629.0
+2020,Both sexes,C00-C99 Malignant neoplasms,260.02747436350194,9699.0
+2020,Both sexes,C16 Malignant neoplasm of stomach,7.822869502685943,296.0
+2020,Both sexes,C18 Malignant neoplasm of colon,12.423611683359043,455.0
+2020,Both sexes,C25 Malignant neoplasm of pancreas,16.28388687222904,608.0
+2020,Both sexes,C34 Malignant neoplasm of bronchus and lung,52.63232134344863,1991.0
+2020,Both sexes,C50 Malignant neoplasm of breast,20.373872015243137,783.0
+2020,Both sexes,C61 Malignant neoplasm of prostate,17.884187630999993,615.0
+2020,Female,C00-C99 Malignant neoplasms,223.019243614779,4525.0
+2020,Female,C16 Malignant neoplasm of stomach,5.167999757439559,106.0
+2020,Female,C18 Malignant neoplasm of colon,10.28881412953104,206.0
+2020,Female,C25 Malignant neoplasm of pancreas,15.132460171630056,302.0
+2020,Female,C34 Malignant neoplasm of bronchus and lung,44.2305198647583,891.0
+2020,Female,C50 Malignant neoplasm of breast,37.31248807255152,777.0
+2020,Male,C00-C99 Malignant neoplasms,308.28133339354406,5174.0
+2020,Male,C16 Malignant neoplasm of stomach,11.046049966761796,190.0
+2020,Male,C18 Malignant neoplasm of colon,15.087528007523503,249.0
+2020,Male,C25 Malignant neoplasm of pancreas,17.38382705201018,306.0
+2020,Male,C34 Malignant neoplasm of bronchus and lung,62.74560405461289,1100.0
+2020,Male,C50 Malignant neoplasm of breast,0.3541004471603952,6.0
+2020,Male,C61 Malignant neoplasm of prostate,42.357543380859646,615.0
+2021,Both sexes,C00-C99 Malignant neoplasms,252.78874727773814,9680.0
+2021,Both sexes,C16 Malignant neoplasm of stomach,8.074400098927391,305.0
+2021,Both sexes,C18 Malignant neoplasm of colon,11.53849587210012,430.0
+2021,Both sexes,C25 Malignant neoplasm of pancreas,14.968711421821203,573.0
+2021,Both sexes,C34 Malignant neoplasm of bronchus and lung,49.22667656892417,1913.0
+2021,Both sexes,C50 Malignant neoplasm of breast,18.272589961016934,718.0
+2021,Both sexes,C61 Malignant neoplasm of prostate,17.844378715984696,633.0
+2021,Female,C00-C99 Malignant neoplasms,214.7749646760813,4475.0
+2021,Female,C16 Malignant neoplasm of stomach,5.164824560590204,106.0
+2021,Female,C18 Malignant neoplasm of colon,9.772087153877306,200.0
+2021,Female,C25 Malignant neoplasm of pancreas,12.974009955785272,267.0
+2021,Female,C34 Malignant neoplasm of bronchus and lung,43.08724500835158,890.0
+2021,Female,C50 Malignant neoplasm of breast,33.29507636965731,708.0
+2021,Male,C00-C99 Malignant neoplasms,302.452045818473,5205.0
+2021,Male,C16 Malignant neoplasm of stomach,11.627035019343873,199.0
+2021,Male,C18 Malignant neoplasm of colon,13.58699492489244,230.0
+2021,Male,C25 Malignant neoplasm of pancreas,17.35060026835627,306.0
+2021,Male,C34 Malignant neoplasm of bronchus and lung,56.41704954478037,1023.0
+2021,Male,C50 Malignant neoplasm of breast,0.5907213241518793,10.0
+2021,Male,C61 Malignant neoplasm of prostate,42.09844201507565,633.0
+2022,Both sexes,C00-C99 Malignant neoplasms,250.69010044476843,10120.0
+2022,Both sexes,C16 Malignant neoplasm of stomach,7.2662831674964385,293.0
+2022,Both sexes,C18 Malignant neoplasm of colon,10.103578238241786,393.0
+2022,Both sexes,C25 Malignant neoplasm of pancreas,15.691974372763525,630.0
+2022,Both sexes,C34 Malignant neoplasm of bronchus and lung,48.51067905533193,1968.0
+2022,Both sexes,C50 Malignant neoplasm of breast,19.10500229188269,794.0
+2022,Both sexes,C61 Malignant neoplasm of prostate,16.369779934685514,617.0
+2022,Female,C00-C99 Malignant neoplasms,215.54608551671222,4708.0
+2022,Female,C16 Malignant neoplasm of stomach,4.898209776650088,107.0
+2022,Female,C18 Malignant neoplasm of colon,8.883990401084574,191.0
+2022,Female,C25 Malignant neoplasm of pancreas,14.503578328542034,310.0
+2022,Female,C34 Malignant neoplasm of bronchus and lung,40.820983215555,879.0
+2022,Female,C50 Malignant neoplasm of breast,35.30592114555793,785.0
+2022,Male,C00-C99 Malignant neoplasms,296.44413888725023,5412.0
+2022,Male,C16 Malignant neoplasm of stomach,10.238591010644738,186.0
+2022,Male,C18 Malignant neoplasm of colon,11.60221982539348,202.0
+2022,Male,C25 Malignant neoplasm of pancreas,16.975803085141422,320.0
+2022,Male,C34 Malignant neoplasm of bronchus and lung,57.51101255751473,1089.0
+2022,Male,C50 Malignant neoplasm of breast,0.5379878576464339,9.0
+2022,Male,C61 Malignant neoplasm of prostate,38.135427611677486,617.0
